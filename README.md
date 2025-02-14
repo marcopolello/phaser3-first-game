@@ -8,5 +8,5 @@
 
 # Screenshot
 <p align="center">
-  <img  src="/public/phaser3.png">
+  <img  src="/assets/phaser3.png">
 </p>
